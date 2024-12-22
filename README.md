@@ -4,7 +4,7 @@ HealthTrack is your gateway to real-time health insights and updates. Stay infor
 
 This mobile app is built using Expo, leveraging React Native for cross-platform mobile development.
 
-##Features
+## Features
 
 - **Real-time Health Insights:** Get the latest COVID-19 statistics, including global case numbers, recoveries, and trends.
 - **Health Tracking:** Track your daily activity, steps, calories, and other important health metrics.
