@@ -1,4 +1,18 @@
-# Welcome to your Expo app 👋
+# Welcome to HealthTrack 👋
+
+HealthTrack is your gateway to real-time health insights and updates. Stay informed with the latest COVID-19 statistics, including cases, recoveries, and trends worldwide. Empower yourself with knowledge and make informed decisions for a healthier tomorrow.
+
+This mobile app is built using Expo, leveraging React Native for cross-platform mobile development.
+
+##Features
+
+- **Real-time Health Insights:** Get the latest COVID-19 statistics, including global case numbers, recoveries, and trends.
+- **Health Tracking:** Track your daily activity, steps, calories, and other important health metrics.
+- **Data Visualization:** View your health data and COVID-19 statistics through intuitive charts and graphs.
+- **Health Reminders:** Set daily reminders to stay on track with your health goals.
+- **Easy Setup:** Start quickly with Expo's development environment.
+- **Login for Personalized Experience:** Log in to access personalized health data and insights.
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
